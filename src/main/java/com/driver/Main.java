@@ -7,7 +7,7 @@ public class Main {
 
         int ans = p.product(10, 20);
         int ans1 = p.product(5,10,15);
-        double ans2 = p.product(25, 35);
+        double ans2 = p.product(25, 35.5);
 
         System.out.println(ans+" "+ans1+" "+ans2);
 
